@@ -5,5 +5,9 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://iiif-test.github.io/July-2021/manifests/manifest2.json",
+    "label" : "Glen's fantastic July 2021 Manifest"
+  } ]
 }
